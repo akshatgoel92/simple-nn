@@ -1,3 +1,4 @@
 .python-version
 .ipynb_checkpoints/
 *.gz
+.DS_Store
