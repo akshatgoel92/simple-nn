@@ -8,3 +8,4 @@ GoogleNews-vectors-negative300.bin
 train.txt
 dev.txt
 test.txt
+results_3.4/
