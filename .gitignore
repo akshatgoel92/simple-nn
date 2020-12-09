@@ -4,3 +4,7 @@
 .DS_Store
 figs/
 results/
+/src/3.4/GoogleNews-vectors-negative300.bin
+/src/3.4/train.txt
+/src/3.4/dev.txt
+/src/3.4/test.txt
